@@ -8,15 +8,15 @@ require (
 	github.com/docker/cli v24.0.6+incompatible
 	github.com/docker/docker v20.10.23+incompatible // DO NOT UPDATE: breaking changes
 	github.com/go-enry/go-enry/v2 v2.8.6
-	github.com/google/uuid v1.3.1
-	github.com/liamg/clinch v1.6.4
+	github.com/google/uuid v1.4.0
+	github.com/liamg/clinch v1.6.6
 	github.com/mattn/go-isatty v0.0.20
 	github.com/otiai10/copy v1.14.0
 	github.com/owenrumney/go-sarif/v2 v2.3.0
 	github.com/pterm/pterm v0.12.70
-	github.com/shirou/gopsutil/v3 v3.23.9
+	github.com/shirou/gopsutil/v3 v3.23.10
 	github.com/sirupsen/logrus v1.9.3
-	github.com/spf13/cobra v1.7.0
+	github.com/spf13/cobra v1.8.0
 	github.com/spf13/viper v1.17.0
 	github.com/stretchr/testify v1.8.4
 	github.com/zalando/go-keyring v0.2.3
