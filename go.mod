@@ -3,7 +3,7 @@ module github.com/JetBrains/qodana-cli/v2023
 go 1.21
 
 require (
-	github.com/boyter/scc/v3 v3.1.0
+	github.com/boyter/scc/v3 v3.2.0
 	github.com/cucumber/ci-environment/go v0.0.0-20230911180507-bd001ebc644c
 	github.com/docker/cli v24.0.6+incompatible
 	github.com/docker/docker v20.10.23+incompatible // DO NOT UPDATE: breaking changes
@@ -89,6 +89,6 @@ require (
 	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/tools v0.13.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
-	gopkg.in/yaml.v2 v2.2.8 // indirect
+	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gotest.tools/v3 v3.5.0 // indirect
 )
