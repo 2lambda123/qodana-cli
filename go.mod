@@ -7,7 +7,7 @@ require (
 	github.com/cucumber/ci-environment/go v0.0.0-20230911180507-bd001ebc644c
 	github.com/docker/cli v25.0.3+incompatible
 	github.com/docker/docker v25.0.3+incompatible // DO NOT UPDATE: breaking changes
-	github.com/go-enry/go-enry/v2 v2.8.6
+	github.com/go-enry/go-enry/v2 v2.8.7
 	github.com/google/uuid v1.6.0
 	github.com/liamg/clinch v1.6.6
 	github.com/mattn/go-isatty v0.0.20
