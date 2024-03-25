@@ -6,7 +6,7 @@ require (
 	github.com/boyter/scc/v3 v3.2.0
 	github.com/cucumber/ci-environment/go v0.0.0-20230911180507-bd001ebc644c
 	github.com/docker/cli v25.0.3+incompatible
-	github.com/docker/docker v25.0.3+incompatible // DO NOT UPDATE: breaking changes
+	github.com/docker/docker v26.0.0+incompatible // DO NOT UPDATE: breaking changes
 	github.com/go-enry/go-enry/v2 v2.8.7
 	github.com/google/uuid v1.6.0
 	github.com/liamg/clinch v1.6.6
@@ -59,6 +59,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.15 // indirect
 	github.com/minio/blake2b-simd v0.0.0-20160723061019-3f5f724cb5b1 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
+	github.com/moby/docker-image-spec v1.3.1 // indirect
 	github.com/moby/term v0.5.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
